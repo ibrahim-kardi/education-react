@@ -1,8 +1,7 @@
-An educational website for students and programmers 😊😊😊
-
+An educational website 
 ### Live site Link : 
 
-https://devemdad-online-test-edu.netlify.app/
+https://glittery-axolotl-99aff9.netlify.app/
 
 
 ## Providing
